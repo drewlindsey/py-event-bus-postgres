@@ -15,7 +15,7 @@ setup(
     long_description=readme,
     author='Drew Lindsey',
     author_email='drew.a.lindsey@gmail.com',
-    url='https://github.com/DrewLindsey/py-event-bus-postgres',
+    url='https://github.com/drewlindsey/py-event-bus-postgres',
     license=license_file,
     packages=find_packages(exclude=('tests', 'docs'))
 )
